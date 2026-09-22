@@ -53,11 +53,11 @@
 
 ## Dados de teste em CSV
 
-<a href="categoria.csv">categoria.csv</a>
-![chamado](./chamado.csv)
-![historico](./historico.csv)
-![tecnico](./tecnico.csv)
-![usuario](./usuario.csv)
+ - <a href="categoria.csv">categoria.csv</a>
+ - <a href="chamado.csv">chamado.csv</a>
+ - <a href="historico.csv">historico.csv</a>
+ - <a href="tecnico.csv">tecnico.csv</a>
+ - <a href="usuario.csv">usuario.csv</a>
 
 ## Script SQL DDL (Desenvolvimento: Criação do Banco de dados)
 
