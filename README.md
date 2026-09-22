@@ -53,7 +53,7 @@
 
 ## Dados de teste em CSV
 
-![categoria](./categoria.csv)
+<a href="categoria.csv">categoria.csv</a>
 ![chamado](./chamado.csv)
 ![historico](./historico.csv)
 ![tecnico](./tecnico.csv)
