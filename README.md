@@ -11,7 +11,7 @@
 |Histórico/Comentários|id, id_chamado, id_usuario, data_hora, descricao, tipo|Armazena comentários, atualizações e ações realizadas durante o atendimento e Solução.|
 
 ## MER DER Conceitual
-![MER conceitual](./Mer%20conceitual%20-%20Atendimento%20chamados.drawio.pngMer conceitual - Atendimento chamados.png)
+![MER conceitual](./Mer%20conceitual%20-%20Atendimento%20chamados.drawio.png)
 ## MER DER Lógico
 ![MER lógico](./Mer%20lógico%20-%20Atendimento%20chamados.drawio.png)
 ## Dicionário de Dados
