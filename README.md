@@ -3,6 +3,7 @@
 ### Atendimento a chamados
 
 |Entidade|Atributos básicos|Descrição|
+|--------|-----------------|---------|
 |Usuário|id, nome, email, telefone, departamento, cargo, status|Pessoa que solicita ou recebe atendimento|
 |Chamado|id, titulo, descricao, data_abertura, data_fechamento, status, prioridade, id_usuario, id_categoria, id_tecnico|Registra a solicitação ou incidente|
 |Técnico|id, nome, email, especialidade, status|Profissional responsável pelo atendimento do chamado.|
@@ -49,7 +50,6 @@
 | Histórico | descricao       | TEXT     |       — | Descrição da atualização ou ação                     |
 | Histórico | tipo            | VARCHAR  |      30 | Tipo do registro realizado                           |
 
-||||||
 
 ## Dados de teste em CSV
 
