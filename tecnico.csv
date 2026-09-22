@@ -1,0 +1,5 @@
+id_tecnico,nome,email,especialidade,status
+1,Lucas Mendes,lucas.medes@empresa.com,Hardware,Ativo
+2,Pedor Almeida,pedro.almeida@empresa.com,Software,Ativo
+3,Juliana Costa,juliana.costa@empresa.com,Redes,Ativo
+4,Rafael Macedo,rafael.macedo@empresa.com,Banco de Dados,Inativo

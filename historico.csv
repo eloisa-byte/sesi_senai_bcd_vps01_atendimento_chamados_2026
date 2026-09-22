@@ -1,0 +1,6 @@
+id_historico,id_chamado,id_usuario,data_hora,descricao,tipo
+1,1,1,2026-09-15 08:45:00,Chamado recebido e encaminhado para o tecnico responsavel.,Atualizacao
+2,1,1,2026-09-15 10:30:00,Foi identificado um problema na fonte de alimentacao do computador.,Diagnostico
+3,1,1,2026-09-15 11:00:00,A fonte de alimentcao foi substituida e o computador coltou a funcionar.,Solucao
+4,2,5,2026-09-16 09:30:00,Chamado encaminhado para analise do sistema de vendas.,Atualizacao
+5,3,3,2026-09-17 14:30:00,VConfiguracao da rede corrigida e conexao estabilizada.,Solucao

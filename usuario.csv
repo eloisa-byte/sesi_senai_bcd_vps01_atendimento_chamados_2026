@@ -1,0 +1,6 @@
+id_usuario,nome,emial,telefone,departamento,cargo,status
+1,Ana Souza,ana.souza@emil.com,11987654321,Financeiro,Analista,Ativo
+2,Carlos Oliveira,cralos.oliveira@email.com,11976543210,Recursos Humanos,Assistente,Ativo
+3,Mariana Santos,mariana.santos@email.com,11965432109,Marketing,Coordenadora,Ativo
+4,João Pereira.joao.pereira@email.com,11954321098,Administrativo,Gerente,Ativo
+5,Beatriz Lima,beatriz.lima@email.com,11943210987,Vendas,Vendedora,Inativo

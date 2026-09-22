@@ -1,0 +1,6 @@
+id_chamado,titulo,descricao,data_abertura,data_fechamento,status,prioridade,id_usuraio,id_categoria,id_tecnico
+1,Computador nao liga,O computador do setor financeiro nao liga.,2026-09-15 08:30:00,2026-09-15 11:00:00,Fechado,Alta,1,1,1
+2,Erro no sistema de vendas,O sistema de vendas apresneta erro ao tentar registrar um pedido.,2026-09-16 09:15:00,,Em andamento,Media,5,2,2
+3,Internet instavel,A conexao com a internet etra apresentando quedas frequentes.,2026-09-17 10:00:00,2026-09-17 14:30:00,Fechado,Alta,3,3,3
+4,Acesso ao sistema,Ousustraio nao consegue acessar o sistema de recursos humanos.,2026-09-18 13:20:00,,Aberto,Media,2,4,4
+5,Computador lento,O computador apresenta lentidao durante a utilizacao dos programas.,2026-09-19 15:40:00,,Em andamento,Baixa,4,1,1
